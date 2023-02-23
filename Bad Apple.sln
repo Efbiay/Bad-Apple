@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bad Apple", "Bad Apple\Bad Apple.csproj", "{70364D74-2F67-445A-B464-EF4D5C19B3B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imgconv", "imgconv\imgconv.csproj", "{5F273B2C-E28D-44B2-A1C0-015596F20A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70364D74-2F67-445A-B464-EF4D5C19B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70364D74-2F67-445A-B464-EF4D5C19B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70364D74-2F67-445A-B464-EF4D5C19B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70364D74-2F67-445A-B464-EF4D5C19B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F273B2C-E28D-44B2-A1C0-015596F20A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F273B2C-E28D-44B2-A1C0-015596F20A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F273B2C-E28D-44B2-A1C0-015596F20A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F273B2C-E28D-44B2-A1C0-015596F20A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5869DF7-CB92-4107-A175-3D33C82A80EC}
+	EndGlobalSection
+EndGlobal
